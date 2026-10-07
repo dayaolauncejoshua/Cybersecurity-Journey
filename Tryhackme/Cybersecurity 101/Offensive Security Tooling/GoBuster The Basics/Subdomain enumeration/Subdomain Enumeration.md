@@ -10,6 +10,6 @@
     Example Command
 
     gobuster dns -d example.thm -w /path/to/wordlist
-    gobuster dns -d example.thm -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt
+    gobuster dns -d example.thm -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt![alt text](image.png)
 
     This is important because the main domain or website and its subdomain smay have different applications, configurations, or security weakness.
